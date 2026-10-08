@@ -77,10 +77,3 @@ DEEPGRAM_TTS_MODEL=aura-2-thalia-en
 - Replies are short, general guidance and can be wrong. Always see a dermatologist for real concerns.
 - Free API tiers are rate-limited and have no privacy guarantees, so do not upload sensitive personal photos while testing.
 
-## Notes
-
-- Never commit your `.env` file.
-
-## Credits
-
-Based on [AIwithhassan/ai-skin-specialist](https://github.com/AIwithhassan/ai-skin-specialist).
